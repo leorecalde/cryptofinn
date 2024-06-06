@@ -26,6 +26,10 @@ main{
     object-fit: cover;
   }
 
+  textarea{
+    resize: none;
+  }
+
   @media all and (min-width: 992px){
     .imagencarousel{
       height: 450px;
